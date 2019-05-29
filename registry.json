@@ -1,0 +1,14 @@
+[
+  {
+    "name": "deps-manager",
+    "author": "Nate Wang",
+    "repository": "https://github.com/rekit/rekit-plugin-deps-manager",
+    "description": "Npm dependencies manager."
+  },
+  {
+    "name": "react",
+    "author": "Nate Wang",
+    "repository": "https://github.com/rekit/rekit-plugin-react",
+    "description": "Manage React app by create-react-app."
+  }
+]

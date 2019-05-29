@@ -1,2 +1,3 @@
-# plugin-registry
-Rekit plugin registry.
+# Rekit Plugin Registry.
+
+Please create pull request to submit a plugin.
